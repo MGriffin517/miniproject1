@@ -1,3 +1,11 @@
+/* 
+    Michael Griffin, Wyatt Rhodes
+    ELET 1102
+    v 1.1
+    2020-12-08
+
+    Gets the number of people in a party at a resturant and tells them where they should be seated.
+*/
 #include <stdio.h>
 int main()
 {
@@ -45,5 +53,6 @@ if (Party > 8)
 {
     printf("\nPlease wait 45 minutes or make a reservation for later!");
 }
+
     return 0;
 }
