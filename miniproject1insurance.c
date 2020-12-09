@@ -1,4 +1,13 @@
+/* 
+    Michael Griffin, Wyatt Rhodes
+    ELET 1102
+    v 1.1
+    2020-12-09
+
+    Gets the user's age and outputs what their insurance will cost.
+*/
 #include <stdio.h>
+
 int main()
 {
 int userAge;
